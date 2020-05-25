@@ -4,7 +4,7 @@ Cofeed App React-Native. At CoFeed you can donate Food to the needy citizens. Co
 You can check the image of the app in ngo-app-images folder.
 
 ## Installation
-git clone git@github.com:abhishekrai2304/ngo-app.git
+git clone https://github.com/abhishekrai2304/ngo-app.git
 
 cd ngo-app
 
