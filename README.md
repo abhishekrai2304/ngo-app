@@ -5,7 +5,9 @@ You can check the image of the app in ngo-app-images folder.
 
 ## Installation
 git clone git@github.com:abhishekrai2304/ngo-app.git
+
 cd ngo-app
+
 npm install
 
 ## Before running the app on android device
