@@ -3,7 +3,7 @@ import firebase from 'firebase'; // 4.8.1
 class Fire {
   constructor() {
     var config={
-      apiKey: "AIzaSyBkpt6HFwXiU09qrc7Jk1BvWLGsDx5U9j4",
+      apiKey: "XXXXXXXXXXXXX",
       authDomain: "login2-6d807.firebaseapp.com",
       databaseURL: "https://login2-6d807.firebaseio.com",
       projectId: "login2-6d807",
