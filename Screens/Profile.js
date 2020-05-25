@@ -14,14 +14,14 @@ const { width, height } = Dimensions.get('screen');
 const thumbMeasure = (width - 48 - 32) / 3;
 
 var config={
-  apiKey: "AIzaSyBkpt6HFwXiU09qrc7Jk1BvWLGsDx5U9j4",
-  authDomain: "login2-6d807.firebaseapp.com",
-  databaseURL: "https://login2-6d807.firebaseio.com",
-  projectId: "login2-6d807",
-  storageBucket: "login2-6d807.appspot.com",
-  messagingSenderId: "803075299968",
-  appId: "1:803075299968:web:7abd54fb0b5a88d3e92465",
-  measurementId: "G-VPMHGQ9VLC"
+  apiKey: "xxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxx",
+  databaseURL: "xxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxx",
+  storageBucket: "xxxxxx",
+  messagingSenderId: "xxxxxx",
+  appId: "xxxxxx",
+  measurementId: "xxxxx"
 };
 if(!(firebase.apps.length)){
 firebase.initializeApp(config);}
