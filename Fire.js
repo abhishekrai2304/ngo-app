@@ -4,13 +4,13 @@ class Fire {
   constructor() {
     var config={
       apiKey: "XXXXXXXXXXXXX",
-      authDomain: "login2-6d807.firebaseapp.com",
-      databaseURL: "https://login2-6d807.firebaseio.com",
-      projectId: "login2-6d807",
-      storageBucket: "login2-6d807.appspot.com",
-      messagingSenderId: "803075299968",
-      appId: "1:803075299968:web:7abd54fb0b5a88d3e92465",
-      measurementId: "G-VPMHGQ9VLC"
+      authDomain: "xxxxxxxxxxxxxxxxxxxxx",
+      databaseURL: "xxxxxxxxxxxxxxxxxxxxxx",
+      projectId: "xxxxxxxxxxxx",
+      storageBucket: "xxxxxxxxxxxx",
+      messagingSenderId: "xxxxxxxxxxxxx",
+      appId: "xxxxxxxxxxxxxx",
+      measurementId: "xxxxxxxxxxxxx"
     };
     if(!(firebase.apps.length)){
       const fb = firebase.initializeApp(config);}
