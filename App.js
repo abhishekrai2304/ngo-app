@@ -23,7 +23,7 @@ import {createAppContainer} from 'react-navigation';
 console.disableYellowBox = true;
 
 var config={
-  apiKey: "AIzaSyBkpt6HFwXiU09qrc7Jk1BvWLGsDx5U9j4",
+  apiKey: "xxxxxxxxxxxxxxxxx",
   authDomain: "login2-6d807.firebaseapp.com",
   databaseURL: "https://login2-6d807.firebaseio.com",
   projectId: "login2-6d807",
