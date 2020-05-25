@@ -18,14 +18,14 @@ let de;
 let nm;
 let ct;
 var firebaseConfig = {
-  apiKey: "AIzaSyBkpt6HFwXiU09qrc7Jk1BvWLGsDx5U9j4",
-  authDomain: "login2-6d807.firebaseapp.com",
-  databaseURL: "https://login2-6d807.firebaseio.com",
-  projectId: "login2-6d807",
-  storageBucket: "login2-6d807.appspot.com",
-  messagingSenderId: "803075299968",
-  appId: "1:803075299968:web:7abd54fb0b5a88d3e92465",
-  measurementId: "G-VPMHGQ9VLC"
+  apiKey: "xxxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxxxxx",
+  databaseURL: "xxxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxxxx",
+  storageBucket: "xxxxxxxxxx",
+  messagingSenderId: "xxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxx",
+  measurementId: "xxxxxxxxxx"
 };
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig)
