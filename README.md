@@ -12,8 +12,11 @@ npm install
 
 ## Before running the app on android device
 1.Connect your deivce to the PC.
+
 2.Turn on USB-Debigging in the Developer Options
+
 3.Open command-prompt and type
+
 4.adb devices
 
 ## Usage
